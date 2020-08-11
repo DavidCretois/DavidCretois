@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python & C++**
 
+- My site web [Profile PRO] [https://davidcretois.github.io/1/dave.html](https://davidcretois.github.io/1/dave.html)
+
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/DavidCretois](https://github.com/DavidCretois)
 
 - 📝 I regulary write articles on 30DayOfCode and my courses [https://github.com/DavidCretois](https://github.com/DavidCretois)
@@ -19,7 +21,5 @@
 
 <p align="center">
 <a href="https://twitter.com/@davidcretois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidcretois" height="30" width="30" /></a>
-<a href="https://fb.com/davidcrétois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="davidcrétois" height="30" width="30" /></a>
 <a href="https://instagram.com/dave.developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dave.developer" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/david crétois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="david crétois" height="30" width="30" /></a>
 </p>
