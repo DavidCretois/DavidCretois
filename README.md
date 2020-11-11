@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python & C++**
 
-- My site web [Profile PRO] [https://davidcretois.github.io/1/dave.html](https://davidcretois.github.io/1/dave.html)
+- My site web [Profile PRO] = In progress 
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/DavidCretois](https://github.com/DavidCretois)
 
