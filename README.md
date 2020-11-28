@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 30DayOfCode [30DayOfCode](https://github.com/DavidCretois/30dayofCode1)
 
-- 🌱 I’m currently learning **Python & C++**
+- 🌱 I’m currently learning **JavaScript and Dart*
 
 - My site web [Profile PRO] = In progress 
 
