@@ -19,6 +19,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcretois&show_icons=true" alt="davidcretois" />
 
 <p align="center">
-<a href="https://twitter.com/@davidcretois" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidcretois" height="30" width="30" /></a>
+<a href="https://twitter.com/@Laarsjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidcretois" height="30" width="30" /></a>
 <a href="https://instagram.com/dave.developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dave.developer" height="30" width="30" /></a>
 </p>
