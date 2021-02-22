@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on 30DayOfCode and my courses [https://github.com/DavidCretois](https://github.com/DavidCretois)
 
-- 💬 Ask me about **React & TensorFlow**
+- 💬 Ask me about **Tkinter Python**
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcretois&show_icons=true" alt="davidcretois" />
