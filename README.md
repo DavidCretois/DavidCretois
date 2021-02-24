@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **Tkinter Python**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=davidcretois&theme=dark&show_icons=true" alt="davidcretois" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcretois&theme=dark&show_icons=true" alt="davidcretois" />
+<img aligne="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidcretois" alt="davidcretois"/>
 
 
 <p align="center">
