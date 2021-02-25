@@ -15,8 +15,10 @@
 
 - 💬 Ask me about **Tkinter Python**
 
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcretois&theme=dark&show_icons=true" alt="davidcretois" />
 <img aligne="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcretois&layout=compact&theme=dark" alt="davidcretois"/>
+</div>
 
 <p align="center">
 <a href="https://twitter.com/@Laarsjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidcretois" height="30" width="30" /></a>
