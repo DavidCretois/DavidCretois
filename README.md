@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Crétois</h1>
-<h3 align="center">A Deaf passionate frontend developer from France and i love coding and discovery about Electronics & computer-science. I'm interesting learn languages and i love creations sites webs. I'm actually 17 yrs and student high school ! I studying innovation durable ecology environment.</h3>
+<h3 align="center">A Deaf passionate frontend developer from France and i love coding and discovery about Electronics & computer-science. I'm interesting learn languages and i love creations sites webs. I'm actually 18 yrs and student high school ! I studying innovation durable ecology environment.</h3>
 
 <p align="left"> <img src="https://img.shields.io/twitter/follow/Laarsjan?label=Twitter&logo=twitter&style=for-the-badge" <img src="https://img.shields.io/reddit/subreddit-subscribers/Flutter?label=reddit&logo=reddit&style=for-the-badge" </p>
 
