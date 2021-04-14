@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Tkinter Python**
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCretois&theme=github)](https://github.com/DavidCretois/github-readme-activity-graph)
+
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcretois&theme=dark&show_icons=true" alt="davidcretois" />
 <img aligne="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcretois&layout=compact&theme=dark" alt="davidcretois"/>
