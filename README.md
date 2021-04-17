@@ -21,8 +21,3 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCretois&theme=github)](https://github.com/DavidCretois/github-readme-activity-graph)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidCretois&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
-<p align="center">
-<a href="https://twitter.com/@Laarsjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@davidcretois" height="30" width="30" /></a>
-<a href="https://instagram.com/dave.developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dave.developer" height="30" width="30" /></a>
-</p>
