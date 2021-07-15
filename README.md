@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Crétois</h1>
-<h3 align="center">A Deaf passionate frontend developer from France and i love coding and discovery about Electronics & computer-science. I'm interesting learn languages and i love creations sites webs. I'm actually 18 yrs and student high school ! I studying innovation durable ecology environment.</h3>
+<h3 align="center">I am interested in learning programming languages and I like designing websites and also designing softwares under Typescript or Tkinter. I am currently 18 years old and a student. I studying Technology Degree in Electrical Engineering and Industrial Computing (GEII or EEIC).</h3>
 
-<p align="left"> <img src="https://img.shields.io/twitter/follow/DavidCretois?label=Twitter&logo=twitter&style=for-the-badge" <img src="https://img.shields.io/reddit/subreddit-subscribers/Flutter?label=reddit&logo=reddit&style=for-the-badge" </p>
+<p align="center"> <img src="https://img.shields.io/twitter/follow/DavidCretois?color=blue&label=Suivez%2FFollow%20David%20CRETOIS%20%21&logo=twitter&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/github/followers/DavidCRetois?color=blue&logo=github&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/DavidCretois?color=blue&logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/reddit/subreddit-subscribers/spacex?color=blue&label=Follow%20my%20passion%20%21%20SPACEX&logo=reddit&logoColor=white&style=for-the-badge"></p>
 
-- 🔭 I’m currently working on 30DayOfCode [30DayOfCode](https://github.com/DavidCretois/30dayofCode1)
+- 🔭 I’m currently working on Web app for NASA Contribution (hopefully) [Web App project](https://github.com/DavidCretois/Mars-M-t-o-API-NASA)
 
 - 🌱 I’m currently learning **C++ and Java**
 
@@ -16,8 +18,9 @@
 - 💬 Ask me about **Tkinter Python**
 
 
-<h2 align="center">My Github activity graph </h2>
+<h2 align="center">📈 My Github activity graph 📉</h2>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCretois&theme=github)](https://github.com/DavidCretois/github-readme-activity-graph)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidCretois&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCretois&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidCretois&theme=prussian)](https://git.io/streak-stats)
 
